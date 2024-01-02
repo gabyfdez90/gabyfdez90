@@ -1,5 +1,6 @@
 # 💫 About Me:
-Former journalist, now a Full Stack Dev newbie and a Python Data Analysis lover. <br>Also, a Bootcamp alumna who is willing to keep learning all her life.<br><br>It has been hard to choose between Web and Data because my background seems to perfectly match both.<br>I have so much creativity to create solution-focused web apps and also curiosity to discover our world through data. <br><br>Currently, I'm making a major change in my life, one line of code at a time. So, I'm looking for a job and also Open Source projects to fall in love with.
+Technical writer, aspiring to add more coding into her day to day activities. Also, I'm studying Multiplatform Apps Development in the IES San Clemente Vocational Training, Santiago de Compostela (Spain).
+I have to offer a basic knowledge (and so much love) for Python, Javascript, PHP and -more recently- Java and Kotlin. Interested in anything that could fit the middle space of a Venn diagram between coding, communications, writing and data.  
 
 
 ## 🌐 Socials:
